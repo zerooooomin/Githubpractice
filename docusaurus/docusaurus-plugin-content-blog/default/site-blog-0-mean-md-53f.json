@@ -1,0 +1,18 @@
+{
+  "permalink": "/blog/0mean",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/0mean.md",
+  "source": "@site/blog/0mean.md",
+  "title": "0mean",
+  "description": "0703 일영동아리 활동",
+  "date": "2023-07-03T11:58:34.361Z",
+  "formattedDate": "July 3, 2023",
+  "tags": [],
+  "readingTime": 0.72,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {},
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}
